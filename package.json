@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@types/node": "^20.11.25",
+    "typescript": "^5.4.2"
+  },
+  "devDependencies": {
+    "@vue/runtime-dom": "^3.4.21"
+  }
+}
